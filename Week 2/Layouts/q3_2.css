@@ -61,3 +61,8 @@ hr{
 #highlight{
   width:32%;
 }
+
+.checkmark{
+  width:20px;
+  height: 20px;
+}
